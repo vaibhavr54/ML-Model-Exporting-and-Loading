@@ -36,7 +36,7 @@ This project demonstrates how to **train, save, and reload a machine learning mo
 ## 📌 How to Use
 
 1. Clone the repo:
-   ```bash
+   ```
    git clone https://github.com/yourusername/ML-Model-Saving-and-Loading.git
    ```
 
@@ -51,13 +51,11 @@ This project demonstrates how to **train, save, and reload a machine learning mo
 ## 🧠 Output Example
 
 Model saved successfully!
-Model loaded and predicted price: ✅
 
 ---
 
 ## 📬 Contact
 
-Made by **Vaibhav Rakshe**
-Feel free to connect for collaboration or questions.
-
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vaibhav-rakshe-7309aa2a5)
+or drop a ⭐ on [GitHub](https://github.com/vaibhavr54)!
 ---
