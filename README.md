@@ -7,7 +7,7 @@ This project demonstrates how to **train, save, and reload a machine learning mo
 ## 📂 Files Included
 
 - `homeprices.xlsx` – Sample dataset with square feet and price columns.
-- `save_model_practice_Vaibhav.ipynb` – Complete notebook showing training, saving, and reloading.
+- `4_save_and_load_model_using_pickle.ipynb` – Complete notebook showing training, saving, and reloading.
 - `model_pickle` – Model file saved using `pickle`.
 - `model_joblib` – Model file saved using `joblib`.
 
@@ -15,7 +15,7 @@ This project demonstrates how to **train, save, and reload a machine learning mo
 
 ## 🔧 Tools & Libraries Used
 
-- Python 🐍
+- Python
 - Pandas
 - Scikit-learn
 - Pickle
